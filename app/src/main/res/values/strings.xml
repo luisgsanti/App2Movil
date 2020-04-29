@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AppClass2_ScrolllingText</string>
+    <string name="headingText">Diomedes Diaz</string>
+    <string name="subHeadingText">La Vida del Artista</string>
+    <string name="article">
+        <b>Diomedes</b> había ganado ya el Premio Grammy con \'Listo pa\' la foto\' en el 2010. En adelante, el cantante enfrentó problemas
+        de salud que lo mantuvieron alejado de las grabaciones y realizó con su disquera, compilados con lo mejor de su música.\n\n
+
+        En el 2011, su disco \'Con mucho gusto, caray\', obtuvo nuevamente una nominación al Premio Grammy Latino al Mejor Álbum de
+        Cumbia/Vallenato, sin embargo, tuvo poca aceptación entre los fanáticos.\n\n
+
+        Durante meses la idea estuvo ahí. En el 2013 fue concebido el álbum que muchos consideraron como su despedida de los escenarios.
+        El álbum lo tenía todo: los mejores compositores del vallenato en la lista del más grande de sus cantantes, Diomedes Díaz.\n\n
+
+        \'La vida del artista\' marcó un hito en la vida del cantante que lo llevó a volver a sus raíces. Se estrenó el 19 de diciembre
+        y tan solo tres días después, Diomedes se despidió de este mundo.\n\n
+
+        <b> <i> El repertorio estuvo compuesto por 13 canciones: </i></b>\n\n
+
+        1) No Llores Mama (Rodolfo Barliza)\n\n
+        2) Que Vaina Tan Difícil (Omar Geles)\n\n
+        3) Aquí Está Lo Tuyo (Rolando Ochoa)\n\n
+        4) Hasta El Fin Del Fin (Chema Moscote)\n\n
+        5) El Hermano Elías (Diomedes Díaz)\n\n
+        6) Ni Amigos, Ni Novios (Romualdo Brito) con Martín Elías.\n\n
+        7) Maduré (Rafael Díaz Maestre)\n\n
+        8) El Humilde Viajero (Edilberto Daza)\n\n
+        9) Ay La Vida (Marciano Martínez)\n\n
+        10) La Vida Del Artista (Máximo Móvil)\n\n
+        11) Un Ramito De Olvido (Aurelio "Yeyo" Núñez)\n\n
+        12) Por Dos Mil Siglos (Chiche Maestre)\n\n
+        13) El Mismo De Siempre (Armando Morelli)\n\n
+
+        Fuente: https://www.colombia.com/entretenimiento/television/sdi/125497/diomedes-diaz-la-vida-del-artista-el-ultimo-repertorio-de-el-cacique
+    </string>
+</resources>
